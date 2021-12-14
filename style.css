@@ -158,10 +158,6 @@ button:active{
 
 @media (max-width:600px) {
     
-    #Yusuf-signature{
-        
-    } 
-    
     #description{
         color: transparent;
         text-shadow:none;
